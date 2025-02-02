@@ -1,10 +1,10 @@
 - Hi, I’m Anuj maurya 👋
 
-- 👀 I’m interested in Python Developer.
+- 👀 I’m interested in Python Developer or Data Analysis with NumPy, Pandas, Matplotlib, Seaborn.
 
-- 🌱 I’m currently learning Web Framework.
+- 🌱 I’m currently learning machine learning.
 
-- 💞️ I’m looking to collaborate on Full Stack Development.
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 
 - 📫 How to reach me: +91 8009272529.
 
